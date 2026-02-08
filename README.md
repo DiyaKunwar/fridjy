@@ -4,7 +4,7 @@
 
 ## Fridjy
 
-An AI-powered refrigerator management app that helps you track your food inventory, discover recipes, and maintain your health goals—all with the power of Google's Gemini AI.
+An AI-powered refrigerator management app that helps you track your food inventory, discover recipes, and maintain your health goals, all with the power of Google's Gemini AI.
 
 ## Features
 
@@ -12,7 +12,7 @@ An AI-powered refrigerator management app that helps you track your food invento
 - **Inventory Management** : Track food items, quantities, and expiry dates with automatic notifications for items going bad soon
 - **Recipe Discovery** : Get personalized recipe suggestions based on what's currently in your fridge
 - **Health Tracking** : Monitor your weight, calories, and macronutrients with AI-powered insights
-- **Offline-First** : All data is stored locally in your browser—no account required, complete privacy
+- **Offline-First** : All data is stored locally in your browser; no account required, complete privacy
 
 # Test our app
 View our app in AI Studio: https://ai.studio/apps/drive/1pa6OFhYeVtNdqMX8Uoo8RDJSqIJ-dVNx
