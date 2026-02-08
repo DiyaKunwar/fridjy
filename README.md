@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="395" alt="fridjy-logo" src="/fridjy-application/fridjy_logo.png" />
+<img width="940" height="410" alt="fridjy-logo" src="/fridjy-application/fridjy_logo.png" />
 </div>
 
 ## Fridjy
